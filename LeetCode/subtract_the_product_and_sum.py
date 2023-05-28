@@ -7,4 +7,4 @@ class Solution:
             product *= digit
             add += digit
             n //= 10
-        return (product - add)
+        return product - add
